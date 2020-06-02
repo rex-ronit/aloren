@@ -79,7 +79,7 @@ body {
   font-weight: 400;
   /*font-size: 16px;*/
   line-height: 1.7;
-  color: #777; }
+  color: #eee; }
 
 .heading-primary {
   color: #fff;
@@ -593,7 +593,7 @@ body {
   width: 75%;
   margin: 0 auto;
   box-shadow: 0 3rem 6rem rgba(0, 0, 0, 0.1);
-  background-color: rgba(255, 255, 255, 0.6);
+  background-color: rgba(119, 119, 119, 0.6);
   border-radius: 3px;
   padding: 6rem;
   padding-left: 9rem;
